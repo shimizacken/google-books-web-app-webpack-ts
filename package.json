@@ -1,0 +1,26 @@
+{
+  "name": "google-books-web-app-webpack-ts",
+  "version": "1.0.0",
+  "description": "Application features:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimizacken/google-books-web-app-webpack-ts.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "books",
+    "webpack",
+    "typescript"
+  ],
+  "author": "Shimi Zacken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimizacken/google-books-web-app-webpack-ts/issues"
+  },
+  "homepage": "https://github.com/shimizacken/google-books-web-app-webpack-ts#readme"
+}
