@@ -25,5 +25,9 @@
   "homepage": "https://github.com/shimizacken/google-books-web-app-webpack-ts#readme",
   "dependencies": {
     "angular": "^1.6.3"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.2"
   }
 }
